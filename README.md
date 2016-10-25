@@ -1,6 +1,6 @@
 # Hepatitis-B-Virus-Reverse-Transcriptase-Database-HBV-RT-DB-
 
-coding languages and tools:  C++, OpenCL, Visual Studio
+coding languages and tools:  Python, SQL, Pythonwin, SQL Server
 
 This project provides an HBV RT genomic and publication database system, which is consisted of two parts - HBV RT Online-Hits DB and HBV RT DB. It comes with 
 1) the schema of the databases
